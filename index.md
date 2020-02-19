@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/wzktwang/wangyutingstuphy/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-http://github.com - automatic!
+http://github.com - automatic!!!!
 [GitHub](https://github.com/wzktwang/wangyuting-henannormaluniversity-physics/blob/master/热学_黄淑清_1-202.pdf)
 
 
